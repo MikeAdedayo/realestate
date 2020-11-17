@@ -1,0 +1,82 @@
+   <svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   id="SVGRoot"
+   sodipodi:docname="chbk.svg">
+  <defs
+     id="defs3988">
+    <linearGradient
+       id="linearGradient5689"
+       inkscape:collect="always">
+      <stop
+         id="stop5685"
+         offset="0"
+         style="stop-color:#400000;stop-opacity:0" />
+      <stop
+         id="stop5687"
+         offset="1"
+         style="stop-color:#410c3e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5001">
+      <stop
+         style="stop-color:#87145b;stop-opacity:1"
+         offset="0"
+         id="stop4997" />
+      <stop
+         style="stop-color:#410c3e;stop-opacity:1"
+         offset="1"
+         id="stop4999" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5001"
+       id="linearGradient31"
+       gradientUnits="userSpaceOnUse"
+       x1="7.0510941"
+       y1="849.79553"
+       x2="1914.2191"
+       y2="445.7345" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5689"
+       id="linearGradient33"
+       gradientUnits="userSpaceOnUse"
+       x1="7.0510941"
+       y1="849.79553"
+       x2="1914.2191"
+       y2="445.7345" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5689"
+       id="linearGradient5700"
+       gradientUnits="userSpaceOnUse"
+       x1="7.0510941"
+       y1="849.79553"
+       x2="1914.2191"
+       y2="445.7345" />
+  </defs>
+    <metadata
+     id="metadata3991">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+                  <g
+           id="g5692"
+           style="fill:url(#linearGradient5700)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4928"
+             d="M 5.030789,996.09776 V 909.00699 L 37.860747,876.1853 C 159.1505,754.92608 333.44952,666.99206 530.31011,627.7441 c 77.64568,-15.48017 117.79549,-19.47059 275.77165,-27.40855 265.49874,-13.34072 331.14894,-18.93311 371.35274,-31.63347 34.1763,-10.79631 127.2393,-61.20995 157.3997,-85.26585 45.8719,-36.5874 81.6613,-86.20874 124.7865,-173.01438 25.6879,-51.7065 35.4381,-66.15651 55.8687,-82.79923 40.8583,-33.28292 84.488,-46.68198 197.7093,-60.71827 97.8858,-12.1351 137.1008,-24.67252 167.504,-53.55262 16.1256,-15.31773 25.378,-30.374272 32.533,-52.941414 l 4.3543,-13.733841 1.3443,328.852435 c 0.7394,180.86884 1.3446,414.08405 1.345,518.25603 l 7e-4,189.40356 H 962.6554 5.030789 Z"
+             style="fill:url(#linearGradient31);fill-opacity:1;stroke-width:2.02030516" />
+        </g>
+          </svg>
